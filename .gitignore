@@ -4,3 +4,4 @@ img.tar.gz
 .vscode
 /out
 /lightning_logs
+/models/model-outputs
